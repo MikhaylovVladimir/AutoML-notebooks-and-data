@@ -5,6 +5,12 @@ Link for competitions: https://www.kaggle.com/competitions/spring-2025-regressio
 
 Link for Notebook: https://colab.research.google.com/drive/1puPnukosdXKbncunM7qejVuoeKEYA9cO?usp=sharing
 
+Added Optuna optimization and explanation of new features.
+
+New results on self trained models (Most latest):
+
+<img width="2406" height="913" alt="image" src="https://github.com/user-attachments/assets/323097d3-7d9b-479d-ae92-33d4a6e72c55" />
+
 Screenshots of latest leaderbords results (all was uploaded after another test of Notebook):
 
 <img width="2400" height="846" alt="image" src="https://github.com/user-attachments/assets/84ba099d-7734-4b69-8d8d-8ab47a504348" />

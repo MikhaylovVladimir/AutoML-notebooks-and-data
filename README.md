@@ -7,6 +7,13 @@ Link for Notebook: https://colab.research.google.com/drive/1puPnukosdXKbncunM7qe
 
 Added Optuna optimization and explanation of new features.
 
+The most latest submissions:
+
+<img width="2455" height="987" alt="image" src="https://github.com/user-attachments/assets/3fd2c6e3-ae87-4790-b711-3b6e6194d116" />
+
+
+
+
 New results on self trained models (Most latest):
 
 <img width="2406" height="913" alt="image" src="https://github.com/user-attachments/assets/323097d3-7d9b-479d-ae92-33d4a6e72c55" />
